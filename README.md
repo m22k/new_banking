@@ -1,6 +1,6 @@
 # new_banking_red
 
-I don't own this script, i just changed the colors.
+I don't own this script, i just changed the colors. The lan
 
 Script made by **onlyserenity**: https://forum.cfx.re/t/release-esx-new-banking/58313
 
