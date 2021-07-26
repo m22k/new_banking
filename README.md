@@ -3,6 +3,7 @@
 I didn't make this script, just changed colors.
 
 **Credits**:
+
 Script made by **onlyserenity**: https://forum.cfx.re/t/release-esx-new-banking/58313
 
 
