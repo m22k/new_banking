@@ -2,8 +2,6 @@
 
 Ei oo mun scripti, muokkasin vaan.
 
-**Credits**:
-
 Scriptin tehny **onlyserenity**: https://forum.cfx.re/t/release-esx-new-banking/58313
 
 
