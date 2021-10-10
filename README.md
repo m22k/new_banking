@@ -1,4 +1,4 @@
-# new_banking_red
+# new_banking
 
 Ei oo mun scripti, muokkasin vaan.
 
