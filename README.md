@@ -1,7 +1,5 @@
 # new_banking
 
-Ei oo mun scripti, muokkasin vaan.
-
 ## Credits
 * Re-Design: https://forum.cfx.re/t/tazio-new-banking-reskin/220487
 * Scripi: https://forum.cfx.re/t/release-esx-new-banking/58313
