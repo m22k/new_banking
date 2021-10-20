@@ -5,4 +5,4 @@
 * Scripin tehny: https://forum.cfx.re/t/release-esx-new-banking/58313
 
 ![Preview image](https://i.imgur.com/REIVIds.jpg)
-![Preview image](https://i.imgur.com/8zvwkUi.jpg)
+![Preview image](https://i.imgur.com/o14IMjt.jpg)
