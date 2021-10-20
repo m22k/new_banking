@@ -7,5 +7,5 @@ Scriptin tehny **onlyserenity**: https://forum.cfx.re/t/release-esx-new-banking/
 
 Reskinin tehny **Tazio**: https://forum.cfx.re/t/tazio-new-banking-reskin/220487
 
-![Screenshot](new_banking.jpg)
-![Screenshot](new_banking2.jpg)
+![Preview image](https://i.imgur.com/ECy4hjc.png)
+![Preview image](https://i.imgur.com/aTRN0ww.png)
